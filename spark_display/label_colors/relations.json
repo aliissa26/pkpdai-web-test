@@ -1,0 +1,33 @@
+{
+    "overlap" : "#ffb345",
+    "before" : "#0398da",
+    "after" : "#39bf7f",
+    
+    "trip": "#e4815e",
+    "trwp": "#0398da",
+    "trcp": "#39bf7f",
+    "trap": "#ffb345",
+    "trnap": "#0059b3",
+    "terp": "#8c35cd",
+    "tecp": "#fa3e74",
+    "pip" : "#6e5772",
+    
+    "drug-strength" : "purple",
+    "drug-frequency": "slategray",
+    "drug-form" : "deepskyblue",
+    "dosage-drug" : "springgreen",
+    "strength-drug": "maroon",
+    "drug-dosage" : "gold",
+    
+    "0" : "#e4815e",
+    "1" : "#6e5772",
+
+    "born-in": "#6e5772",
+
+    "C_VAL": "#875a33",
+    "D_VAL": "#0398da",
+    "RELATED": "#39bf7f",
+    "c_val": "#ffb345",
+    "d_val": "#0398da",
+    "related": "#39bf7f"
+}

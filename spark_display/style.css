@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+.scroll.entities {
+    border: 1px solid #E7EDF0;
+    border-radius: 3px;
+    text-align: justify;
+}
+
+.scroll.entities span {
+    font-size: 14px;
+    line-height: 24px;
+    color: #536B76;
+    font-family: Montserrat, sans-serif !important;
+}
+.entity-wrapper {
+    border-radius: 3px;
+    padding: 1px;
+    margin: 0 2px 5px 2px;
+}
+
+.scroll.entities span .entity-type {
+    font-weight: 500;
+    color: #ffffff;
+    display: block;
+    padding: 3px 5px;
+}
+
+.scroll.entities span .entity-name {
+	border-radius: 3px;
+	padding: 2px 5px;
+	display: block;
+	margin: 3px 2px;
+}
+
+
+div.scroll {
+    line-height: 24px;
+}
